@@ -26,6 +26,7 @@ docs/
   playbook.md
   app/architecture.md
   processes/
+  rules/
   prompts/integrate-into-repo.md
 .github/copilot-instructions.md
 .cursor/rules/          # Cursor only

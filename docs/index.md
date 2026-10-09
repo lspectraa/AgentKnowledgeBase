@@ -4,4 +4,4 @@
 
 App systems: [[architecture]]. Run/test: [[run-test-lint]]. Runtime check: [[verify]].
 
-Skills live in `skills/`. Processes: [[definition-of-done]], [[pre-review-qa]], [[sprint-security-audit]]. Pitfalls: [[lessons-learned]].
+Skills live in `skills/`. Processes: [[definition-of-done]], [[pre-review-qa]], [[sprint-security-audit]]. Rules: [[parallel-operations]], [[report-deleted-logic]], [[report-major-changes]], [[report-hardcoded-strings]], [[stop-what-you-start]]. Pitfalls: [[lessons-learned]].
